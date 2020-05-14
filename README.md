@@ -67,6 +67,37 @@ cd 999
 ```
 python3 999dice.py
 ```
+## Configuration
+```
+config.json
+```
+     "Username": "xxx",
+     "Password": "xxx"
+"Name Bet Set": "Happy Mining ðŸ¤‘",
+     "Base Bet": "0.1",
+     "Max Bet": "OFF",
+     "Chance": "80",
+     "Random Chance": {
+          "Toggle": "ON",
+          "Min": "80",
+          "Max": "82"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "0",
+              "If Lose": "1",
+              "If Win": "2"
+            }
+	        },
+     "If Win": "1.01",
+     "If Lose": "3.01",
+     "Reset If Win": "1",
+     "Reset If Profit": "0.000001",
+     "Interval": "1"
+     },{
+     
+     
 ## Contact
 [Telegram]( https://t.me/monkeydc)
 [Email]( mailto:imskaa.co@gmail.com)
