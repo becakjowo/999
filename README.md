@@ -5,6 +5,10 @@ An Dice mining script for [999DOGE]( https://www.999doge.com/?319436992)
   <img src="preview.png" alt="preview">
 </p>
 
+<p align="center">
+  <img src="preview2.png" alt="preview">
+</p>
+
 Donations for continued support of this script are welcomed at:
 
 * BTC 
