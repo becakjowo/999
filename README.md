@@ -71,8 +71,11 @@ python3 999dice.py
 ```
 config.json
 ```
+```
      "Username": "xxx",
      "Password": "xxx"
+```
+```
 "Name Bet Set": "Happy Mining ðŸ¤‘",
      "Base Bet": "0.1",
      "Max Bet": "OFF",
@@ -96,8 +99,7 @@ config.json
      "Reset If Profit": "0.000001",
      "Interval": "1"
      },{
-     
-     
+```
 ## Contact
 [Telegram]( https://t.me/monkeydc)
 [Email]( mailto:imskaa.co@gmail.com)
